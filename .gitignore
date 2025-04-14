@@ -1,0 +1,6 @@
+*.log
+.vscode
+dockerHost/db-server/
+dockerHost/print-server/
+target/
+dist/bin/*.jar
